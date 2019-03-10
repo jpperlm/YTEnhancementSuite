@@ -1,0 +1,11 @@
+{
+  "name": "Youtube ES (Enhancement Suite)",
+  "version": "1.0",
+  "description": "Improve youtube experience",
+  "author": "Jason Perlman (PerlmanLabs.com)",
+  "content_scripts": [{
+    "matches": ["*://*.youtube.com/*"],
+    "css":["css/hide_ads.css"]
+  }],
+  "manifest_version": 2
+}
