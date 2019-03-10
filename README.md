@@ -1,7 +1,5 @@
-# NoNetflixAutoAds
+# YT Enhancement Suite
 
-Chrome Extension to remove the pesky auto playing ads on Netflix.
+Remove end of video ads blocking last 15 seconds.
 
-Zipthis is the folder that has the live version on the chrome web store. 
-
-[Add To Chrome Here](https://chrome.google.com/webstore/detail/netflix-es-enhancement-su/chgnjnikegkdcolabpjkijgdhcklneja/)
+[Add To Chrome Here](https://chrome.google.com/webstore/detail/youtube-es-enhancement-su/lmninklbonbjlphlnkffciodhcdppfak/)
